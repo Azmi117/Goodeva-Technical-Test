@@ -1,5 +1,9 @@
 # GOODEVA TODO AI - Technical Test
 
+# Screenshot UI
+<img width="2557" height="1024" alt="image" src="https://github.com/user-attachments/assets/d7dbb704-bcff-44fa-ae0f-83cdb7b75853" />
+
+
 Aplikasi manajemen tugas (Fullstack) yang dilengkapi dengan sistem **AI Suggestion**. Aplikasi ini dibangun untuk memenuhi kriteria Technical Test, mencakup fitur CRUD, pencarian, dan integrasi OpenAI.
 
 ## 🚀 Fitur Utama
